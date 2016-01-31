@@ -23,15 +23,15 @@ class SecondViewController: UIViewController {
             ]
         ]
         // Do any additional setup after loading the view.
-
-        MBProgressHUD.showHUDAddedTo(self.view, animated: true)
-        Alamofire.request(.POST, "http://122.226.100.102:8130/dta/servicefun", parameters: parameters as? [String : AnyObject], encoding: .JSON).responseJSON(options: .AllowFragments) { (request:NSURLRequest, urlresponse:NSHTTPURLResponse?, response:AnyObject?, error:NSError?) -> Void in
-            MBProgressHUD.hideHUDForView(self.view, animated: true)
-            
-            println(response)
-            
-            
-        }
+//        MBProgressHUD.showHUDAddedTo(self.view, animated: true)
+//
+//        Alamofire.request(.POST, "http://122.226.100.102:8130/dta/servicefun", parameters: nil as? [String : AnyObject], encoding: .JSON).responseJSON(options: .AllowFragments) { (request:NSURLRequest, urlresponse:NSHTTPURLResponse?, response:AnyObject?, error:NSError?) -> Void in
+//            MBProgressHUD.hideHUDForView(self.view, animated: true)
+//            
+//            println(response)
+//            
+//            
+//        }
 
     }
     
