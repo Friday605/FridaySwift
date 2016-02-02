@@ -417,7 +417,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.com.dreamtouch.NPM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "578c7409-a34c-45a3-97b1-1d7bfecd4120";
+				PROVISIONING_PROFILE = "133865c6-aebd-4bf6-8cce-de172c25779e";
 			};
 			name = Debug;
 		};
@@ -431,7 +431,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.com.dreamtouch.NPM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "578c7409-a34c-45a3-97b1-1d7bfecd4120";
+				PROVISIONING_PROFILE = "133865c6-aebd-4bf6-8cce-de172c25779e";
 			};
 			name = Release;
 		};
