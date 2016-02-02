@@ -502,6 +502,7 @@
 				B60FB2091C5DE77400A3E9B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B60FB20A1C5DE77400A3E9B1 /* Build configuration list for PBXNativeTarget "NPMTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +511,7 @@
 				B60FB20C1C5DE77400A3E9B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B60FB20D1C5DE77400A3E9B1 /* Build configuration list for PBXNativeTarget "NPMUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +520,7 @@
 				B60FB20F1C5DE77400A3E9B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
